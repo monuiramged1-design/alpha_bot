@@ -1,0 +1,40 @@
+[
+    { "name": "All Mighty (Bleach)", "rarity": "ميثك", "power": 100 },
+    { "name": "Zeno Instinct (DB)", "rarity": "ميثك", "power": 98 },
+    { "name": "Infinite Tsukuyomi (Naruto)", "rarity": "ميثك", "power": 90 },
+    { "name": "Geass (Code Geass)", "rarity": "ميثك", "power": 85 },
+    { "name": "Gear 5 (One Piece)", "rarity": "ميثك", "power": 80 },
+    { "name": "Gojo's Infinity (JJK)", "rarity": "ميثك", "power": 75 },
+    { "name": "Sukuna's Domain (JJK)", "rarity": "ميثك", "power": 72 },
+    { "name": "Ultra Instinct (DB)", "rarity": "ميثك", "power": 70 },
+    
+    { "name": "Rinnegan (Naruto)", "rarity": "أسطوري", "power": 65 },
+    { "name": "Six Paths Rasengan (Naruto)", "rarity": "أسطوري", "power": 62 },
+    { "name": "Kyoka Suigetsu (Bleach)", "rarity": "أسطوري", "power": 60 },
+    { "name": "Super Saiyan (DB)", "rarity": "أسطوري", "power": 58 },
+    { "name": "Kamehameha (DB)", "rarity": "أسطوري", "power": 55 },
+    { "name": "King's Haki (One Piece)", "rarity": "أسطوري", "power": 52 },
+    { "name": "Yamamoto's Bankai (Bleach)", "rarity": "أسطوري", "power": 50 },
+    { "name": "Sun Breathing (Demon Slayer)", "rarity": "أسطوري", "power": 48 },
+
+    { "name": "Domain Expansion (JJK)", "rarity": "خارق", "power": 45 },
+    { "name": "Chidori (Naruto)", "rarity": "خارق", "power": 40 },
+    { "name": "Rasengan (Naruto)", "rarity": "خارق", "power": 38 },
+    { "name": "Colossal Titan (AOT)", "rarity": "خارق", "power": 35 },
+    { "name": "Black Hole (Bleach)", "rarity": "خارق", "power": 32 },
+    { "name": "Fire Fist (One Piece)", "rarity": "خارق", "power": 30 },
+
+    { "name": "Kamui (Naruto)", "rarity": "نادر", "power": 28 },
+    { "name": "Sharingan (Naruto)", "rarity": "نادر", "power": 25 },
+    { "name": "Moon Breathing (Demon Slayer)", "rarity": "نادر", "power": 22 },
+    { "name": "Thunder Breathing (Demon Slayer)", "rarity": "نادر", "power": 20 },
+    { "name": "Bungee Gum (HxH)", "rarity": "نادر", "power": 18 },
+    { "name": "Blackwhip (MHA)", "rarity": "نادر", "power": 15 },
+
+    { "name": "Shoryuken (Street Fighter)", "rarity": "عادي", "power": 12 },
+    { "name": "Beast Titan (AOT)", "rarity": "عادي", "power": 10 },
+    { "name": "Katana", "rarity": "عادي", "power": 8 },
+    { "name": "Hero Style (MHA)", "rarity": "عادي", "power": 6 },
+    { "name": "Kunai (Naruto)", "rarity": "عادي", "power": 5 },
+    { "name": "Gun (Death Note)", "rarity": "عادي", "power": 3 }
+]

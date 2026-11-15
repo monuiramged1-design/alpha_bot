@@ -1,0 +1,25 @@
+{
+  "120363411169958383@g.us": {
+    "muted": false,
+    "hidden": false,
+    "antilink": true,
+    "banword": true,
+    "protkt": true,
+    "soupr_protkt": true,
+    "soupr_antilink": true,
+    "wp": true,
+    "anticontact": false
+  },
+  "120363413419100900@g.us": {
+    "soupr_antilink": true,
+    "soupr_protkt": true,
+    "banword": true
+  },
+  "201011267946-1634401417@g.us": {
+    "banword": true,
+    "protkt": true,
+    "soupr_protkt": true,
+    "antilink": true,
+    "soupr_antilink": true
+  }
+}

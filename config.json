@@ -1,0 +1,19 @@
+{
+  "prefix": ".",
+  "botName": "ALPHA BOT",
+  "ownerNumbers": [
+    "201227618527",
+    "201011267946",
+    "201061182500",
+    "21222238740735",
+    "171829108969509",
+    "212773321689",
+    "126023500857484",
+    "248760596746433"
+  ],
+  "antilinkDefault": false,
+  "anticontactDefault": false,
+  "muteDefault": false,
+  "banWords": ["anjing", "bangsat", "kontol", "memek", "goblok"],
+  "cooldownMs": 3000
+}

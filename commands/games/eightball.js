@@ -1,0 +1,2 @@
+const a = ["أيوه أكيد 💯","مستحيل ❌","يمكن 🤔","اعملها ومتفكرش 😎","الدنيا مش هتساعدك 😂","اسأل تاني بعدين ⏳","طبعاً لأ 🙅","إجابة غامضة... 👀"];
+module.exports = { name: "8ball", async execute({ sock, msg, from, args }) { if (!args.length) return sock.sendMessage(from, { text: "❓ اكتب سؤالك بعد الأمر." }, { quoted: msg }); await sock.sendMessage(from, { text: `🎱 ${a[Math.floor(Math.random()*a.length)]}` }, { quoted: msg }); } };

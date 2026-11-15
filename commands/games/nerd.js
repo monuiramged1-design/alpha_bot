@@ -1,0 +1,1 @@
+module.exports = { name: "نرد", async execute({ sock, msg, from }) { const n = Math.floor(Math.random() * 6) + 1; const f = ["1️⃣","2️⃣","3️⃣","4️⃣","5️⃣","6️⃣"]; await sock.sendMessage(from, { text: `🎲 النرد طلع: ${f[n-1]} (${n})` }, { quoted: msg }); } };

@@ -1,0 +1,1 @@
+module.exports = { name: "ping", async execute({ sock, msg, from }) { const t = Date.now(); const sent = await sock.sendMessage(from, { text: "🏓 جاري القياس..." }, { quoted: msg }); await sock.sendMessage(from, { text: `🏓 *Pong!*\n⚡ السرعة: ${Date.now() - t}ms`, edit: sent.key }); } };

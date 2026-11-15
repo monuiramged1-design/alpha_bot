@@ -1,0 +1,2 @@
+const t = ["إيه أكتر حاجة بتخاف منها؟","آخر كذبة قلتها؟","مين أكتر شخص بتثق فيه؟"]; const d = ["ابعت ستوري بوشك 😂","اعمل فويس بغنية","ابعت آخر صورة في معرضك"];
+module.exports = { name: "truth", aliases: ["dare"], async execute({ sock, msg, from, args, raw }) { const isDare = raw.startsWith(".dare") || args[0] === "dare"; const list = isDare ? d : t; await sock.sendMessage(from, { text: isDare ? `🔥 *جرأة:* ${list[Math.floor(Math.random()*list.length)]}` : `💬 *صراحة:* ${list[Math.floor(Math.random()*list.length)]}` }, { quoted: msg }); } };

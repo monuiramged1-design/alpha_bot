@@ -1,0 +1,344 @@
+{
+  "248760596746433@lid": {
+    "points": 716,
+    "lastDraw": 1794722009050,
+    "cards": [
+      {
+        "name": "كاكاشي",
+        "rarity": "نادر",
+        "power": 202,
+        "abilities": [
+          {
+            "name": "ألترا إنستنكت (DB)",
+            "power": 55
+          },
+          {
+            "name": "Colossal Titan (AOT)",
+            "rarity": "خارق",
+            "power": 35
+          }
+        ]
+      },
+      {
+        "name": "بروتو",
+        "rarity": "أسطوري",
+        "power": 305,
+        "abilities": [
+          {
+            "name": "تنفس الشمس (Demon Slayer)",
+            "power": 25
+          },
+          {
+            "name": "Domain Expansion (JJK)",
+            "rarity": "خارق",
+            "power": 45
+          }
+        ]
+      },
+      {
+        "name": "أوسوب",
+        "rarity": "عادي",
+        "power": 45
+      }
+    ],
+    "lastWork": 1794722163784,
+    "hideCards": true,
+    "stealHistory": {
+      "21222238740735@lid": [
+        1794682450060,
+        1794682507400,
+        1794682527697
+      ],
+      "171829108969509@lid": [
+        1794682764470
+      ]
+    },
+    "stealHistoryOverall": [
+      1794691729907,
+      1794691825108,
+      1794700661299
+    ],
+    "lastAbilityReset": 1794722116115,
+    "abilityDrawCount": 2,
+    "abilityInventory": [
+      {
+        "name": "Beast Titan (AOT)",
+        "rarity": "عادي",
+        "power": 10
+      },
+      {
+        "name": "Katana",
+        "rarity": "عادي",
+        "power": 8
+      }
+    ],
+    "lastCollect": 1794722151289
+  },
+  "21222238740735@lid": {
+    "points": -209,
+    "lastDraw": 1794719402254,
+    "cards": [
+      {
+        "name": "إرين",
+        "rarity": "خارق",
+        "power": 281,
+        "abilities": [
+          {
+            "name": "لوفينج (One Piece)",
+            "power": 45
+          },
+          {
+            "name": "دومين إكسبانشن (JJK)",
+            "power": 60
+          }
+        ]
+      },
+      {
+        "name": "تانجيرو",
+        "rarity": "عادي",
+        "power": 22
+      },
+      {
+        "name": "كازوما",
+        "rarity": "عادي",
+        "power": 35
+      }
+    ],
+    "lastWork": 1794720896362,
+    "hideCards": false,
+    "stealHistory": {
+      "171829108969509@lid": [
+        1794682354777,
+        1794682692597
+      ],
+      "248760596746433@lid": [
+        1794682428888
+      ]
+    },
+    "stealHistoryOverall": [
+      1794725946055,
+      1794725966748,
+      1794725977637
+    ],
+    "abilityInventory": [
+      {
+        "name": "دايناميت (My Hero)",
+        "rarity": "نادر",
+        "power": 24
+      },
+      {
+        "name": "شيدو ريوجو (Naruto)",
+        "rarity": "عادي",
+        "power": 16
+      },
+      {
+        "name": "Beast Titan (AOT)",
+        "rarity": "عادي",
+        "power": 10
+      },
+      {
+        "name": "Katana",
+        "rarity": "عادي",
+        "power": 8
+      }
+    ],
+    "lastAbilityDraw": 1794684018243,
+    "lastAbilityReset": 1794719410448,
+    "abilityDrawCount": 2,
+    "lastCollect": 1794720901520
+  },
+  "175965347020932@lid": {
+    "points": 0,
+    "lastDraw": 1794678257364,
+    "cards": [
+      {
+        "name": "زينيتسو",
+        "rarity": "عادي",
+        "power": 31
+      }
+    ]
+  },
+  "32788501757997@lid": {
+    "points": 0,
+    "lastDraw": 1794678511708,
+    "cards": [
+      {
+        "name": "ناروتو",
+        "rarity": "أسطوري",
+        "power": 224
+      }
+    ]
+  },
+  "128608903417946@lid": {
+    "points": 0,
+    "lastDraw": 1794680722633,
+    "cards": [
+      {
+        "name": "زينيتسو",
+        "rarity": "عادي",
+        "power": 26
+      }
+    ],
+    "lastAbilityReset": 1794684605677,
+    "abilityDrawCount": 2,
+    "abilityInventory": [
+      {
+        "name": "ميرا ميرا نو مي (One Piece)",
+        "power": 20
+      }
+    ]
+  },
+  "171829108969509@lid": {
+    "points": -23,
+    "lastDraw": 1794721840436,
+    "cards": [
+      {
+        "name": "أوزوي",
+        "rarity": "عادي",
+        "power": 48
+      },
+      {
+        "name": "أوسوب",
+        "rarity": "عادي",
+        "power": 128,
+        "abilities": [
+          {
+            "name": "دومين إكسبانشن (JJK)",
+            "power": 60
+          },
+          {
+            "name": "Colossal Titan (AOT)",
+            "rarity": "خارق",
+            "power": 35
+          }
+        ]
+      },
+      {
+        "name": "لايت",
+        "rarity": "عادي",
+        "power": 46,
+        "abilities": [
+          {
+            "name": "Beast Titan (AOT)",
+            "rarity": "عادي",
+            "power": 10
+          },
+          {
+            "name": "Hero Style (MHA)",
+            "rarity": "عادي",
+            "power": 6
+          }
+        ]
+      }
+    ],
+    "lastWork": 1794727308513,
+    "hideCards": false,
+    "lastAbilityReset": 1794721870597,
+    "abilityDrawCount": 2,
+    "abilityInventory": [],
+    "lastCollect": 1794727315631,
+    "stealHistoryOverall": [
+      1794726026988,
+      1794726069718
+    ],
+    "pendingAbilities": {}
+  },
+  "32161419792579@lid": {
+    "points": 109,
+    "lastWork": 1794689102376,
+    "cards": [
+      {
+        "name": "ميكاسا",
+        "rarity": "نادر",
+        "power": 71
+      },
+      {
+        "name": "كيرا",
+        "rarity": "عادي",
+        "power": 31
+      }
+    ],
+    "lastDraw": 1794689341921
+  },
+  "126023500857484@lid": {
+    "points": 285,
+    "lastWork": 1794700872240,
+    "cards": [
+      {
+        "name": "زورو",
+        "rarity": "خارق",
+        "power": 149,
+        "abilities": [
+          {
+            "name": "تنفس الشمس (Demon Slayer)",
+            "power": 25
+          }
+        ]
+      },
+      {
+        "name": "نيزوكو",
+        "rarity": "نادر",
+        "power": 127,
+        "abilities": [
+          {
+            "name": "كاميهاميها (Dragon Ball)",
+            "power": 30
+          }
+        ]
+      },
+      {
+        "name": "كاكاشي",
+        "rarity": "نادر",
+        "power": 81
+      }
+    ],
+    "lastCollect": 1794700936040,
+    "lastDraw": 1794700855073,
+    "hideCards": true,
+    "lastAbilityReset": 1794701114324,
+    "abilityDrawCount": 2,
+    "abilityInventory": [
+      {
+        "name": "Hero Style (MHA)",
+        "rarity": "عادي",
+        "power": 6
+      },
+      {
+        "name": "Katana",
+        "rarity": "عادي",
+        "power": 8
+      }
+    ],
+    "stealHistoryOverall": [
+      1794691894585,
+      1794691933175,
+      1794693490185
+    ]
+  },
+  "179899805524198@lid": {
+    "points": 10,
+    "lastDraw": 1794698046231,
+    "cards": [
+      {
+        "name": "زينيتسو",
+        "rarity": "نادر",
+        "power": 108,
+        "abilities": [
+          {
+            "name": "Blackwhip (MHA)",
+            "rarity": "نادر",
+            "power": 15
+          },
+          {
+            "name": "Gun (Death Note)",
+            "rarity": "عادي",
+            "power": 3
+          }
+        ]
+      }
+    ],
+    "lastAbilityReset": 1794698116442,
+    "abilityDrawCount": 2,
+    "abilityInventory": []
+  }
+}
